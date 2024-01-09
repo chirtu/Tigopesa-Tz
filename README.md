@@ -27,8 +27,9 @@ To get started with this project:
 2. Open the project in your preferred Flutter development environment (e.g., Android Studio, VS Code).
 3. Run the app on an emulator or a physical device.
 
-##Image
+## Image
 ![Home Page](https://github.com/chirtu/Tigopesa-Tz/blob/master/assets/home.jpeg)
+
 ![Self Service Page](https://github.com/chirtu/Tigopesa-Tz/blob/master/assets/self_service.jpeg)
 
 ## Feedback
